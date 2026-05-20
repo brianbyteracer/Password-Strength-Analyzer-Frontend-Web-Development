@@ -45,8 +45,7 @@ Event Handling
 Regex Validation
 Frontend Security Concepts
 
-
-⭐ Future Improvements
+Future Improvements:-
 Password generator
 Dark mode
 Data breach password checking
